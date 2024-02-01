@@ -1,0 +1,14 @@
+body{
+    background-color: #ccc;
+}
+
+.container{
+    display: none;
+    margin-bottom: 24px;
+}
+
+button{
+    cursor: pointer;
+    display: block;
+    margin-bottom: 24px;
+}
